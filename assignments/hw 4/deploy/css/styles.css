@@ -308,6 +308,10 @@ template {
 [hidden] {
   display: none; }
 
+.site-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); }
+
 /* =============
     Typography
 ============= */
