@@ -21,6 +21,19 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/img\/header.jpg" : {
+      "ft" : 16384,
+      "iS" : 143810,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/header.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/deploy\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39,6 +52,35 @@
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
+    },
+    "\/designs\/Group3 Vault & Vine Redesign.png" : {
+      "ft" : 32768,
+      "iS" : 12248757,
+      "oA" : 0,
+      "oAP" : "\/designs\/Group3 Vault & Vine Redesign.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/dev\/components\/header.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/header.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
     },
     "\/dev\/index.kit" : {
       "cB" : 0,

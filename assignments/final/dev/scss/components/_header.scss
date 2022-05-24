@@ -1,0 +1,17 @@
+.header {
+    background: $grey; 
+    padding-left: 16 px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo {
+    width: 96px;
+}
+
+
+
+.header__link {
+    color: white;
+    margin-left: 20px;
+} 
