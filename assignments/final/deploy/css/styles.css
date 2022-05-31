@@ -339,3 +339,6 @@ h1, h2, h3, h4, h5, h6 {
 .header__link {
   color: white;
   margin-left: 20px; }
+
+.article-block {
+  background: gray; }

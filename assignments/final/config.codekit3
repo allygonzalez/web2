@@ -66,6 +66,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dev\/components\/article-grid.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/article-grid.html",
+      "oF" : 0
+    },
     "\/dev\/components\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -141,6 +149,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_article-grid.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_article-grid.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
