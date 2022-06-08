@@ -1,0 +1,86 @@
+/* =============
+    About
+============= */
+
+.about{
+
+    img{
+        display: block;
+        grid-template-columns: 50px auto 50x;
+        justify-content: center;
+        align-items: center;
+     
+    
+    }
+
+    p{
+        font-family: 'quicksand';
+        text-align: center;
+    }
+
+    .about-text{
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 40px;
+        text-align: center;
+    }
+}
+
+.services{
+    h2{
+        justify-content: center;
+        text-align: center;
+        font-size: 48px;
+        font-weight: 300;
+        padding-bottom: 50px;
+    }
+
+    img{
+        justify-content: center;
+        align-items: center;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+}
+
+.contact{
+
+    background-color: #A8C0BB;
+    h2{
+        justify-content: center;
+        text-align: center;
+        font-size: 48px;
+        font-weight: 300;
+        padding-bottom: 50px;
+    }
+
+    input{
+        border-style: none;
+        background-color: $cream;
+    }
+
+
+
+    button{
+        border-style: none;
+        background-color: $cream;
+    }
+
+}
+
+.footer{
+    background-color: #A8C0BB;
+    ul{
+        justify-content: center;
+        list-style: none;
+        display: flex;
+
+        li{
+            padding: 5px;
+        }
+    }
+
+}
+
+

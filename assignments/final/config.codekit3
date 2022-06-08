@@ -21,18 +21,143 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/header.jpg" : {
-      "ft" : 16384,
-      "iS" : 143810,
-      "jF" : 0,
+    "\/deploy\/img\/ cafe.png" : {
+      "ft" : 32768,
+      "iS" : 230479,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/header.jpg",
+      "oAP" : "\/deploy\/img\/ cafe.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/deploy\/img\/aboutphoto.png" : {
+      "ft" : 32768,
+      "iS" : 715170,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/aboutphoto.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/events.png" : {
+      "ft" : 32768,
+      "iS" : 495965,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/events.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/Facebook-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/Facebook-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/floral.png" : {
+      "ft" : 32768,
+      "iS" : 344196,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/floral.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/header.png" : {
+      "ft" : 32768,
+      "iS" : 491224,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/header.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/insta-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/insta-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/leftflower.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/leftflower.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/pinterest-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/pinterest-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/rightflower.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/rightflower.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/deploy\/img\/section2.png" : {
+      "ft" : 32768,
+      "iS" : 1169163,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/section2.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/yelp-icon.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/deploy\/img\/yelp-icon.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/deploy\/index.html" : {
       "cB" : 0,
@@ -66,12 +191,52 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/dev\/components\/about.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/about.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/about.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/about.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/article-grid.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/article-grid.html",
+      "oF" : 0
+    },
     "\/dev\/components\/article-grid.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/components\/article-grid.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/contents.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/contents.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/contents.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/contents.html",
       "oF" : 0
     },
     "\/dev\/components\/header.html" : {
@@ -88,6 +253,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/components\/header.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/navigation.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/navigation.html",
       "oF" : 0
     },
     "\/dev\/index.kit" : {
@@ -149,6 +322,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/base\/_typography.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_about.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_about.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
@@ -325,6 +513,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/dev\/section-1.html",
+      "oF" : 0
+    },
+    "\/dev\/section-2.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/section-2.html",
       "oF" : 0
     },
     "\/dev\/section-2.kit" : {
