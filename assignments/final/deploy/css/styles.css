@@ -315,6 +315,9 @@ template {
   margin: 0 auto;
   max-width: 1200px; }
 
+img {
+  width: 100%; }
+
 /* =============
     Typography
 ============= */
@@ -346,22 +349,23 @@ h1, h2, h3, h4, h5, h6 {
 /* =============
     About
 ============= */
-.about img {
-  display: block;
-  grid-template-columns: 50px auto 50x;
-  justify-content: center;
-  align-items: center; }
-
-.about p {
-  font-family: 'quicksand';
-  text-align: center; }
-
-.about .about-text {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 32px;
-  line-height: 40px;
-  text-align: center; }
+.about {
+  width: 80%;
+  margin: 0 auto; }
+  .about img {
+    display: block;
+    grid-template-columns: 50px auto 50px;
+    justify-content: center;
+    align-items: center; }
+  .about p {
+    font-family: 'quicksand';
+    text-align: center; }
+  .about .about-text {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center; }
 
 .services h2 {
   justify-content: center;
@@ -377,16 +381,28 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 50px; }
 
 .contact {
-  background-color: #A8C0BB; }
+  background-color: #A8C0BB;
+  padding-left: 20px;
+  padding-right: 20px; }
   .contact h2 {
     justify-content: center;
     text-align: center;
     font-size: 48px;
     font-weight: 300;
     padding-bottom: 50px; }
-  .contact input {
+  @media (min-width: 768px) {
+    .contact .contact-row {
+      display: flex; } }
+  .contact input,
+  .contact textarea {
     border-style: none;
-    background-color: #F8F5EC; }
+    background-color: #F8F5EC;
+    display: block;
+    margin-bottom: 14px;
+    width: 100%;
+    border-radius: 3px; }
+  .contact .message-box {
+    width: 100%; }
   .contact button {
     border-style: none;
     background-color: #F8F5EC; }
@@ -399,6 +415,36 @@ h1, h2, h3, h4, h5, h6 {
     display: flex; }
     .footer ul li {
       padding: 5px; }
+
+.events {
+  background-image: url(../img/events.png);
+  background-position: center;
+  background-size: cover;
+  height: 178px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center; }
+
+.floral {
+  background-image: url(../img/floral.png);
+  background-position: center;
+  background-size: cover;
+  height: 178px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center; }
+
+.cafe {
+  background-image: url(../img/cafe.png);
+  background-position: center;
+  background-size: cover;
+  height: 178px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center; }
 
 /* =============
     Navigation

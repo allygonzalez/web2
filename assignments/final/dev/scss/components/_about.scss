@@ -2,23 +2,27 @@
     About
 ============= */
 
-.about{
+.about {
+    width: 80%;
+    margin: 0 auto;
 
-    img{
+    img {
         display: block;
-        grid-template-columns: 50px auto 50x;
+        grid-template-columns: 50px auto 50px;
         justify-content: center;
         align-items: center;
-     
-    
+
+
     }
 
-    p{
+
+
+    p {
         font-family: 'quicksand';
         text-align: center;
     }
 
-    .about-text{
+    .about-text {
         font-style: normal;
         font-weight: 400;
         font-size: 32px;
@@ -27,8 +31,8 @@
     }
 }
 
-.services{
-    h2{
+.services {
+    h2 {
         justify-content: center;
         text-align: center;
         font-size: 48px;
@@ -36,7 +40,7 @@
         padding-bottom: 50px;
     }
 
-    img{
+    img {
         justify-content: center;
         align-items: center;
         margin-left: 50px;
@@ -44,10 +48,15 @@
     }
 }
 
-.contact{
+.contact {
 
     background-color: #A8C0BB;
-    h2{
+
+    padding-left: 20px;
+
+    padding-right: 20px;
+
+    h2 {
         justify-content: center;
         text-align: center;
         font-size: 48px;
@@ -55,32 +64,78 @@
         padding-bottom: 50px;
     }
 
-    input{
+    .contact-row {
+        @include md {
+            display: flex;
+        }
+    }
+
+    input,
+    textarea {
         border-style: none;
         background-color: $cream;
+        display: block;
+        margin-bottom: 14px;
+        width: 100%;
+        border-radius: 3px;
+    }
+
+    .message-box {
+        width: 100%;
     }
 
 
-
-    button{
+    button {
         border-style: none;
         background-color: $cream;
     }
 
 }
 
-.footer{
+.footer {
     background-color: #A8C0BB;
-    ul{
+
+    ul {
         justify-content: center;
         list-style: none;
         display: flex;
 
-        li{
+        li {
             padding: 5px;
         }
     }
 
 }
 
+.events {
+    background-image: url(../img/events.png);
+    background-position: center;
+    background-size: cover;
+    height: 178px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
 
+.floral {
+    background-image: url(../img/floral.png);
+    background-position: center;
+    background-size: cover;
+    height: 178px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.cafe {
+    background-image: url(../img/cafe.png);
+    background-position: center;
+    background-size: cover;
+    height: 178px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
