@@ -21,6 +21,14 @@
       "oF" : 0,
       "pg" : 0
     },
+    "\/deploy\/gallery.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/gallery.html",
+      "oF" : 0
+    },
     "\/deploy\/img\/ cafe.png" : {
       "ft" : 32768,
       "iS" : 230479,
@@ -69,6 +77,19 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/deploy\/img\/faviconweb.jpg" : {
+      "ft" : 16384,
+      "iS" : 3789,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/faviconweb.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/deploy\/img\/floral.png" : {
       "ft" : 32768,
@@ -239,6 +260,14 @@
       "oAP" : "\/dev\/components\/contents.html",
       "oF" : 0
     },
+    "\/dev\/components\/gallery.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/gallery.html",
+      "oF" : 0
+    },
     "\/dev\/components\/header.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -255,6 +284,14 @@
       "oAP" : "\/dev\/components\/header.html",
       "oF" : 0
     },
+    "\/dev\/components\/navigation.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/navigation.html",
+      "oF" : 0
+    },
     "\/dev\/components\/navigation.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -262,6 +299,30 @@
       "oA" : 1,
       "oAP" : "\/dev\/components\/navigation.html",
       "oF" : 0
+    },
+    "\/dev\/components\/REgallery.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/dev\/components\/REgallery.html",
+      "oF" : 0
+    },
+    "\/dev\/components\/REgallery.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/components\/REgallery.html",
+      "oF" : 0
+    },
+    "\/dev\/gallery.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/gallery.html",
+      "oF" : 2
     },
     "\/dev\/index.kit" : {
       "cB" : 0,
@@ -457,6 +518,21 @@
       "ma" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/scss\/components\/_navigation.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 1
+    },
+    "\/dev\/scss\/components\/_REgallery.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/scss\/components\/_REgallery.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
