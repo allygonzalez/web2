@@ -400,7 +400,9 @@ h1, h2, h3, h4, h5, h6 {
     display: block;
     margin-bottom: 14px;
     width: 100%;
-    border-radius: 3px; }
+    border-radius: 3px;
+    padding: 20px;
+    margin-left: 15px; }
   .contact .message-box {
     width: 100%; }
   .contact button {
@@ -414,7 +416,9 @@ h1, h2, h3, h4, h5, h6 {
     list-style: none;
     display: flex; }
     .footer ul li {
-      padding: 5px; }
+      padding: 5px;
+      width: 50px;
+      display: flex; }
 
 .events {
   background-image: url(../img/events.png);
@@ -424,7 +428,8 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   text-align: center;
   align-items: center;
-  justify-content: center; }
+  justify-content: center;
+  color: #F8F5EC; }
 
 .floral {
   background-image: url(../img/floral.png);
@@ -474,3 +479,19 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 25px;
   font-weight: 300;
   padding-bottom: 50px; }
+
+.andrew_liz h2 {
+  justify-content: center;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 300;
+  padding-bottom: 50px;
+  color: #7F9892; }
+
+.gallery-text {
+  justify-content: center;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 300;
+  padding-bottom: 50px;
+  color: #7F9892; }

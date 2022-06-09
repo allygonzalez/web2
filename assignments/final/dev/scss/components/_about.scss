@@ -78,6 +78,8 @@
         margin-bottom: 14px;
         width: 100%;
         border-radius: 3px;
+        padding: 20px;
+        margin-left: 15px;
     }
 
     .message-box {
@@ -95,6 +97,7 @@
 .footer {
     background-color: #A8C0BB;
 
+
     ul {
         justify-content: center;
         list-style: none;
@@ -102,6 +105,8 @@
 
         li {
             padding: 5px;
+            width: 50px;
+            display: flex;
         }
     }
 
@@ -116,6 +121,8 @@
     text-align: center;
     align-items: center;
     justify-content: center;
+    color: #F8F5EC;
+
 }
 
 .floral {

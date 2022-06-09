@@ -1,5 +1,5 @@
-.recent_events{
-    h2{
+.recent_events {
+    h2 {
         justify-content: center;
         text-align: center;
         font-size: 20px;
@@ -7,12 +7,35 @@
         padding-bottom: 50px;
     }
 }
-.gallery{
-    h2{
+
+.gallery {
+    h2 {
         justify-content: center;
         text-align: center;
         font-size: 25px;
         font-weight: 300;
         padding-bottom: 50px;
     }
+}
+
+.andrew_liz {
+    h2 {
+        justify-content: center;
+        text-align: center;
+        font-size: 25px;
+        font-weight: 300;
+        padding-bottom: 50px;
+        color: #7F9892;
+    }
+
+
+}
+
+.gallery-text {
+    justify-content: center;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 300;
+    padding-bottom: 50px;
+    color: #7F9892;
 }
